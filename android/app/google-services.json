@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693141663679",
+    "project_id": "dairyqueen-a757b",
+    "storage_bucket": "dairyqueen-a757b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693141663679:android:97026e1abfcb11ebaabb0a",
+        "android_client_info": {
+          "package_name": "com.example.dairyqueen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9lWafRfWMKOlMMXzTq5VhUh4RstHHb5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
